@@ -42,4 +42,4 @@ Return to the "Layout" tab and in the top right of the viewport window, select '
   - Go to the "Attribute" dropdown.
   - Ensure that the name for the attribute Vertex>Color matches the name in the Attribute node in the Shading tab. (Should be "Col")
 
-## Now you are free to roam Blender and all the cool stuff you can do with lighting and nodes!
+### Now you are free to roam Blender and all the cool stuff you can do with lighting and nodes!
