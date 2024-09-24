@@ -31,7 +31,7 @@ From here navigate to the "Geometry Nodes" tab and ensure your pointcloud is sel
 #### If you had the heatmap enabled and want to use those colors:
 - Head to the "Shading" tab, ensure your pointcloud is selected. Select "New" then Add > Input > Attribute, in "Attribute" click 'Name' and enter "Col". Drag from the dot labeled 'Color' on "Attribute" to the dot labeled 'Base Color' on "Principled BSDF." Then in  Return to the Geometry Nodes tab and in the "Set Material" Node select your newly created material (likely called Material.001).
 
-Return to the "Layout" tab and in the top right of the viewport window, select 'Viewport Shading.' The points should become colored and become spheres. 
+Return to the "Layout" tab and in the top right of the viewport window, select 'Viewport Shading.' The points should become colored (if you enabled the heatmap colors) and become spheres. 
 - If the points do not turn into spheres:
   - On the right hand side lower window.
   - Go to the "Render" menu.
